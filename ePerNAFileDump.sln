@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ePerNAFileDump", "ePerNAFileDump\ePerNAFileDump.csproj", "{691EA27B-625A-42B7-B09C-E2A85BBBCA4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{691EA27B-625A-42B7-B09C-E2A85BBBCA4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{691EA27B-625A-42B7-B09C-E2A85BBBCA4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{691EA27B-625A-42B7-B09C-E2A85BBBCA4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{691EA27B-625A-42B7-B09C-E2A85BBBCA4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE5654EB-13BF-4B23-A8F2-E52A71E448E0}
+	EndGlobalSection
+EndGlobal
